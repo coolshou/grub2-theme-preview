@@ -1,4 +1,10 @@
-grub2-theme-preview (2.4.2-1) unstable; urgency=medium
+grub2-theme-preview (2.9.1-1) UNRELEASED; urgency=medium
+
+  * new upstream
+
+ -- coolshou <coolshou2060@gmail.com>  Wed, 30 Jul 2025 23:29:28 +0800
+
+grub2-theme-preview (2.9.1-1) unstable; urgency=medium
 
   * Initial release
 
